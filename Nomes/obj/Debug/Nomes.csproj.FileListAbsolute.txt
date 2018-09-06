@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\Nomes\Nomes\bin\Debug\Nomes.exe.config
+C:\Users\Thiago\source\repos\Nomes\Nomes\bin\Debug\Nomes.exe
+C:\Users\Thiago\source\repos\Nomes\Nomes\bin\Debug\Nomes.pdb
+C:\Users\Thiago\source\repos\Nomes\Nomes\obj\Debug\Nomes.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Nomes\Nomes\obj\Debug\Nomes.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Nomes\Nomes\obj\Debug\Nomes.exe
+C:\Users\Thiago\source\repos\Nomes\Nomes\obj\Debug\Nomes.pdb
